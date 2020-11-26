@@ -1,1 +1,1 @@
-puts "Helloe World\n"
+puts "Helloe World"
